@@ -1,0 +1,2 @@
+# Fase-4-_-M-todos-Cuantitativos-y-Cualitativos-para-los-Negocios_Carmen-Balanta
+Pipeline de analítica de negocios (Fase 4) para la optimización de seguros paramétricos agrícolas. Integra mapeo bibliométrico en R, minería de texto y análisis de sentimientos con NLP (Hugging Face), junto con modelamiento estadístico (PDF) y predicción del mercado mediante redes neuronales artificiales (ANN) en TensorFlow.
